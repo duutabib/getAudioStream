@@ -84,11 +84,6 @@ You can configure the following parameters in the `audioCapture` function:
 ### Dependencies
 All dependencies are specified in `pyproject.toml`.
 
-### Testing
-Run tests using pytest:
-```bash
-pytest
-```
 
 ### Code Formatting
 This project uses Black and isort for code formatting:
